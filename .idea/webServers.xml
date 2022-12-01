@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9f26f59c-3aca-4ab3-9ef2-ab8a957fbacd" name="parallels-ubuntu">
+        <fileTransfer rootFolder="/home/parallels" accessType="SFTP" host="10.211.55.3" port="22" sshConfigId="5ddc409b-ab46-4549-9fa1-e91c7c933238" sshConfig="parallels@10.211.55.3:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

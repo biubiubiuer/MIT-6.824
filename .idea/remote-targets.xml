@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="7ba0befa-61b4-49da-9526-6f1bd97f9150" />
+    <targets>
+      <target name="parallels@10.211.55.3:22" type="ssh/sftp" uuid="7ba0befa-61b4-49da-9526-6f1bd97f9150">
+        <config>
+          <option name="projectRootOnTarget" value="/home/parallels/MIT-6.824" />
+          <option name="serverName" value="parallels@10.211.55.3:22 password" />
+          <option name="useRsync" value="true" />
+        </config>
+      </target>
+    </targets>
+  </component>
+</project>
